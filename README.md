@@ -278,7 +278,7 @@ Al finalizar ambas sesiones, el estudiante será capaz de:
 
 Proyecto desarrollado por:
 
-* María Ignacia Rojas
+* Maria-Ignacia Rojas
 * Maximiliano Gaete
 
 **Estudiantes de Pregrado**  
