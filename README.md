@@ -265,7 +265,7 @@ Al finalizar el taller, el estudiante será capaz de:
 
 # Créditos
 
-Desarrollado por **Maximiliano Gaete** y **María Ignacia Rojas**,  
+Desarrollado por **Maximiliano Gaete** y **Maria-Ignacia Rojas**,  
 estudiantes de pregrado de Ingeniería Civil Biomédica.
 
 Proyecto desarrollado para el **Fablab de la Universidad de Valparaíso**  
