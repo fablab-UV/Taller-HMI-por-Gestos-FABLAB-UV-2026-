@@ -1,4 +1,4 @@
-# CV-HMI: Control Gestual mediante Visión Artificial
+<img width="1382" height="670" alt="{E950D8D1-5D15-44C9-BAE2-7BBCE6BEA27D}" src="https://github.com/user-attachments/assets/2a57040c-fbfa-4f97-8d42-27e9b3d7845a" /># CV-HMI: Control Gestual mediante Visión Artificial
 ### Propuesta de Transferencia Tecnológica | Fablab UV
 
 Este repositorio contiene el material técnico y didáctico para el taller intensivo de **Interfaz Hombre-Máquina (HMI)** basado en visión artificial. El proyecto está diseñado para ser implementado en una sesión de 90 minutos, transformando una cámara web en un sensor de control sin contacto.
@@ -120,6 +120,9 @@ Arduino UNO
 │                     Servo (marrón) ─── GND
 └── Pin 11 ──────── Buzzer (+) ──── GND
 ```
+<img width="1382" height="670" alt="{E950D8D1-5D15-44C9-BAE2-7BBCE6BEA27D}" src="https://github.com/user-attachments/assets/d1585edf-1704-4a68-9df3-5658f6016beb" />
+
+
 
 ### Flujo del Sistema (Sesión 2)
 
