@@ -110,7 +110,7 @@ Objetivo: Extender el sistema de la Sesión 1 para controlar hardware real media
 | 🤟 3 dedos | Brillo alto (PWM 192) | 135° | Silencio |
 | 🖐️ 4-5 dedos | Brillo máximo (PWM 255) | 180° | Pitido |
 
-### Diagrama de Conexión Arduino (UNO)
+### Conexiones Arduino (UNO)
 
 ```
 Arduino UNO
@@ -120,10 +120,9 @@ Arduino UNO
 │                     Servo (marrón) ─── GND
 └── Pin 11 ──────── Buzzer (+) ──── GND
 ```
-# Diagrama del Circuito
+# Diagrama de conexiones al Arduino (UNO)
 
 ![Circuito Arduino](https://github.com/user-attachments/assets/2a57040c-fbfa-4f97-8d42-27e9b3d7845a)
-
 
 ### Flujo del Sistema (Sesión 2)
 
